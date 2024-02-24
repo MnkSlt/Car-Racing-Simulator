@@ -1,3 +1,3 @@
-### Object Oriented Programming Project
+### Functional Programming Project
 
 * Car race simulator in c language
